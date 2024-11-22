@@ -5,7 +5,7 @@
 💻 I love coding and exploring computer hardware.
 
 ## 🔧 Skills:
-- **Languages:** C, Python, HTML, CSS, JavaScript
+- **Languages:** C, Python, HTML, CSS, JavaScript, SQL
 - **Tools:** Eclipse, Git, VS Code
 
 ## 📫 Reach me at:
