@@ -5,8 +5,8 @@
 💻 I love coding and exploring computer hardware.
 
 ## 🔧 Skills:
-- **Languages:** C, Python, HTML, CSS, JavaScript, SQL
-- **Tools:** Eclipse, Git, VS Code
+- **Languages:** C, Python, Java, HTML, CSS, JavaScript, SQL
+- **Tools:** Eclipse, Git, VS Code, MySQL
 
 ## 📫 Reach me at:
 📧 [ayla.topuz2005@gmail.com](mailto:ayla.topuz2005@gmail.com)
