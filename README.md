@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayla Topuz!
+# 👋 Hi, I'm Ayla!
 
 ### 🎓 2nd Year Computer Science Student at WLU
 
@@ -9,7 +9,7 @@
 - **Tools:** Eclipse, Git, VS Code, MySQL
 
 ## 📫 Reach me at:
-📧 [ayla.topuz2005@gmail.com](mailto:ayla.topuz2005@gmail.com)
+📧 [topu9419@mylaurier.ca](mailto:topu9419@mylaurier.ca)
 
 🔗 www.linkedin.com/in/ayla-topuz-31313a29a
 
