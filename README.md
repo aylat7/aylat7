@@ -11,5 +11,5 @@
 ## 📫 Reach me at:
 📧 [topu9419@mylaurier.ca](mailto:topu9419@mylaurier.ca)
 
-🔗 www.linkedin.com/in/ayla-topuz-31313a29a
+🔗 www.linkedin.com/in/ayla-topuz
 
